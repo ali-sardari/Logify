@@ -1,6 +1,8 @@
 # Logify
 
-![Maven Central](https://img.shields.io/maven-central/v/cloud.slashdev.logging/Logify)
+[![Maven Central](https://img.shields.io/maven-central/v/cloud.slashdev.logging/Logify)
+](https://central.sonatype.com/artifact/cloud.slashdev.logging/Logify)
+
 
 **Logify:** Your ultimate logging solution for Java and Kotlin frameworks, seamlessly empowering developers in Android, SpringBoot, and beyond.
 
